@@ -1,6 +1,6 @@
 #tasks
 
-# set up ssh with R studio.
+# set up ssh github connection with Rstudio.
 # create a repo and push code from Rstudio 
 
 
@@ -26,3 +26,14 @@
   #2. use lapply
   
 #write a function which needs just the path, and paste all the files (in the path) into one file and return with the file. 
+
+
+# task with names 
+#create a data.table with 1000 rows which has the following columns:
+  #1. 'familyname'
+  #2. 'last name'
+  #3. 'gender'(male, female)
+  #4. 'birth_date' it should be from 1900.01.01 till today, a random day
+  #5. 'days_old' calculate how many days left from birth date.
+  # 6. 'height' 
+  # make a function of it, which need 3 variable: number of rows, familynames, lastnames 
